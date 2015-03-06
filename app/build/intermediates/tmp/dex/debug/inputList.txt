@@ -1,0 +1,6 @@
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\classes\debug
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-26a6c1b8f65f6bb6b6f865ea95d66e2fde3e5402.jar
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\pre-dexed\debug\ocpsoft-pretty-time-1.0.7-91e3c5539a69b44c127b2263cfbc95c49deda4c2.jar
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\pre-dexed\debug\volley-524a5e39a5e075ec5e36db9179e8ccf4f117145f.jar
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-102965979331267f298f496f53b76ecab9a269f2.jar
+C:\Users\SeRoAl\AndroidstudioProjects\GojimoJsonAPI\app\build\intermediates\pre-dexed\debug\classes-6e6c9eeada2f04a6c19ec64748b75d349078fecb.jar
